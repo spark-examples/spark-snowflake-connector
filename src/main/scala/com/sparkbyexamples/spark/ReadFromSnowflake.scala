@@ -13,7 +13,7 @@ object ReadFromSnowflake extends App{
     "sfURL" -> "https://oea81082.us-east-1.snowflakecomputing.com/",
     "sfAccount" -> "oea81082",
     "sfUser" -> "nnkumar13",
-    "sfPassword" -> "Nelamalli#1",
+    "sfPassword" -> "#######1",
     "sfDatabase" -> "snowflake_sample_data",
     "sfSchema" -> "tpch_sf1",
   "sfRole" -> "ACCOUNTADMIN"
